@@ -167,3 +167,5 @@ plugins:
 
 # Creative Commons Attribution Licence
 
+
+theme: jekyll-theme-minimal
