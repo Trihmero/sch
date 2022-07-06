@@ -5,6 +5,8 @@
 
 [Jekyll Static Site Generator](https://jekyllrb.com/)
 
+[Beautiful Jekyll theme](https://github.com/daattali/beautiful-jekyll)
+
 [Pandoc Markup Converter](https://pandoc.org/)
 
 [Neovim VI Style Editor](https://github.com/neovim/neovim)
@@ -13,6 +15,6 @@
 
 [GIMP. The Gnu Image Manipulator](https://www.gimp.org/)
 
-[Beautiful Jekyll theme](https://github.com/daattali/beautiful-jekyll)
-
 [Git Version Control System](https://git-scm.com/)
+
+[Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/)
